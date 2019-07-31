@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import numpy as np
-import sys
+import sys 
 
 i_names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 i_class = [(0,49),(50,99),(100,149)]
